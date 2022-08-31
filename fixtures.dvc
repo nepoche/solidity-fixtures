@@ -1,0 +1,12 @@
+md5: a618de9b00c795607753e0a1fb0dedbc
+frozen: true
+deps:
+- path: fixtures
+  repo:
+    url: ../protocol-solidity/
+    rev_lock: 071d69040826a20fccd292cae8dd4f59a5554f56
+outs:
+- md5: 14ca668a0dafbdc35e24cdc9b4e6c5d6.dir
+  size: 469133886
+  nfiles: 65
+  path: fixtures
