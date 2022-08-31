@@ -1,0 +1,1 @@
+This repository manages the fixtures generated in protocol-solidity. It uses DVC to keep git lightweight.
