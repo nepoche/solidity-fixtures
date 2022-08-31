@@ -2,3 +2,5 @@
     remote = solidity-fixtures
 ['remote "solidity-fixtures"']
     url = https://nepoche-dvc-test.s3.amazonaws.com/solidity-fixtures
+['remote "aws-fixtures"']
+    url = s3://nepoche-dvc-test/solidity-fixtures
